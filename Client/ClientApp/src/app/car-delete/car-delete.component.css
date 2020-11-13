@@ -1,0 +1,17 @@
+dl {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+dt {
+    width: 20%;
+}
+
+dd {
+    margin-left: auto;
+    width: 80%;
+}
+
+.car-delete-dl {
+    width: 400px;
+}
